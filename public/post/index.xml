@@ -2,25 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Posts on 13的部落格</title>
-        <link>https://example.org/post/</link>
+        <link>https://yishan0114.github.io/myblog/post/</link>
         <description>Recent content in Posts on 13的部落格</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-tw</language>
-        <lastBuildDate>Fri, 26 Dec 2025 01:43:28 +0800</lastBuildDate><atom:link href="https://example.org/post/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>Test</title>
-        <link>https://example.org/post/test/</link>
-        <pubDate>Fri, 26 Dec 2025 01:43:28 +0800</pubDate>
+        <lastBuildDate>Wed, 07 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://yishan0114.github.io/myblog/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>21歲的生日禮物</title>
+        <link>https://yishan0114.github.io/myblog/post/hello/</link>
+        <pubDate>Wed, 07 Jan 2026 00:00:00 +0000</pubDate>
         
-        <guid>https://example.org/post/test/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Hello</title>
-        <link>https://example.org/post/hello/</link>
-        <pubDate>Fri, 26 Dec 2025 01:11:03 +0800</pubDate>
-        
-        <guid>https://example.org/post/hello/</guid>
-        <description></description>
+        <guid>https://yishan0114.github.io/myblog/post/hello/</guid>
+        <description>&lt;p&gt;祝我生日快樂！&lt;/p&gt;
+</description>
         </item>
         
     </channel>

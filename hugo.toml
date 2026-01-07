@@ -1,4 +1,10 @@
-baseURL = 'https://example.org/'
-languageCode = 'zh-tw'
-title = '13的部落格'
+baseURL = "https://yishan0114.github.io/myblog/"
+languageCode = "zh-tw"
+title = "13的部落格"
 theme = "hugo-theme-stack"
+
+[params]
+mainSections = ["post"]
+
+[params.sidebar]
+subtitle = "哈囉我是蔡佾珊，歡迎你來看我的文章！"
