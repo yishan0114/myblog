@@ -1,6 +1,6 @@
-baseURL = "https://yishan0114.github.io/myblog/"
+baseURL = "https://www.yishantsai.com/"
 languageCode = "zh-tw"
-title = "13的部落格"
+title = "13 的部落格"
 theme = "hugo-theme-stack"
 
 [params]
