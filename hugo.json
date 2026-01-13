@@ -2,6 +2,7 @@
   "baseURL": "https://www.yishantsai.com/",
   "languageCode": "zh-tw",
   "title": "13 的部落格",
+  "hasCJKLanguage": true,
   "theme": "hugo-theme-stack",
   "copyright": "Yishan Tsai",
   "outputs": {
