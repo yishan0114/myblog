@@ -29,7 +29,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     env:
-      HUGO_VERSION: 0.128.0 # 你可以根據需要調整版本
+      HUGO_VERSION: 0.153.2 # 你可以根據需要調整版本
     steps:
       - name: Install Hugo CLI
         run: |
