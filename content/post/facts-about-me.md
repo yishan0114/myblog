@@ -1,6 +1,6 @@
 +++
-date = '2026-02-03'
-draft = ture
+date = '2026-02-28'
+draft = false
 title = '我的個奇怪習慣'
 
 +++
